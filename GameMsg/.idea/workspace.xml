@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="502b9d80-a7d0-47c6-91fd-8f9dc8fe2d09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eTeUDoDUccdsqC856LTdOtRItp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\myProject\GameMsg\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScatterAndGathering">
+    <configuration name="NIOFileChannel01" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.kong.netty.basic.NIOFileChannel01" />
+      <module name="GameMsg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOFileChannel03" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.kong.netty.basic.NIOFileChannel03" />
+      <module name="GameMsg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyBasic" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.kong.netty.basic.BasicBuff" />
+      <module name="GameMsg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScatterAndGathering" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.kong.netty.basic.ScatterAndGatheringTest" />
+      <module name="GameMsg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NIOFileChannel01" />
+      <item itemvalue="Application.NIOFileChannel03" />
+      <item itemvalue="Application.ScatterAndGathering" />
+      <item itemvalue="Application.NettyBasic" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="502b9d80-a7d0-47c6-91fd-8f9dc8fe2d09" name="Default Changelist" comment="" />
+      <created>1594350023257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594350023257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="181" key="#Project_Structure" timestamp="1594360364796">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="181" key="#Project_Structure/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594360364796" />
+    <state x="2334" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594366920959">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594366920959" />
+    <state x="2609" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594366919405">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2609" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594366919405" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1594373240634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594373240634" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1594373240634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594373240634" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1594373240634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594373240634" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1594373240634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594373240634" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1594373240634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594373240634" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1594373240634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594373240634" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1594373240634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594373240634" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1594373240634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594373240634" />
+    <state x="2360" y="97" key="SettingsEditor" timestamp="1594350110383">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="97" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594350110383" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1594360571565">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594360571565" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594365460942">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594365460942" />
+  </component>
+</project>

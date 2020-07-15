@@ -1,4 +1,4 @@
-package com.kong.netty.basic;
+package com.kong.nio.basic;
 
 import java.nio.IntBuffer;
 

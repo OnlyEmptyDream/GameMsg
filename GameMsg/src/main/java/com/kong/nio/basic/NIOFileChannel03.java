@@ -1,4 +1,4 @@
-package com.kong.netty.basic;
+package com.kong.nio.basic;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

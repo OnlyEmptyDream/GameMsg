@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="502b9d80-a7d0-47c6-91fd-8f9dc8fe2d09" name="Default Changelist" comment="" />
+    <list default="true" id="502b9d80-a7d0-47c6-91fd-8f9dc8fe2d09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kong/netty/basic/BasicBuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kong/nio/basic/BasicBuff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kong/netty/basic/NIOFileChannel01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kong/nio/basic/NIOFileChannel01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kong/netty/basic/NIOFileChannel03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kong/nio/basic/NIOFileChannel03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kong/netty/basic/ScatterAndGatheringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kong/nio/basic/ScatterAndGatheringTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1eTeUDoDUccdsqC856LTdOtRItp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,28 +45,28 @@
   </component>
   <component name="RunManager" selected="Application.ScatterAndGathering">
     <configuration name="NIOFileChannel01" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.kong.netty.basic.NIOFileChannel01" />
+      <option name="MAIN_CLASS_NAME" value="com.kong.nio.basic.NIOFileChannel01" />
       <module name="GameMsg" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="NIOFileChannel03" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.kong.netty.basic.NIOFileChannel03" />
+      <option name="MAIN_CLASS_NAME" value="com.kong.nio.basic.NIOFileChannel03" />
       <module name="GameMsg" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="NettyBasic" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.kong.netty.basic.BasicBuff" />
+      <option name="MAIN_CLASS_NAME" value="com.kong.nio.basic.BasicBuff" />
       <module name="GameMsg" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ScatterAndGathering" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.kong.netty.basic.ScatterAndGatheringTest" />
+      <option name="MAIN_CLASS_NAME" value="com.kong.nio.basic.ScatterAndGatheringTest" />
       <module name="GameMsg" />
       <method v="2">
         <option name="Make" enabled="true" />

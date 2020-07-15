@@ -1,11 +1,9 @@
-package com.kong.netty.basic;
+package com.kong.nio.basic;
 
 
 import java.io.FileOutputStream;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * 用channel 将一个字符串写入txt文件中去
